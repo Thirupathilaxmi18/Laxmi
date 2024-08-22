@@ -8,4 +8,5 @@ class fst:
 obj=fst()
 obj.getstring()
 obj.printstring()
+#print("laxmi")
 
