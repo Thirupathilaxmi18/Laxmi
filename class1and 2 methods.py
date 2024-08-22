@@ -9,4 +9,5 @@ obj=fst()
 obj.getstring()
 obj.printstring()
 #print("laxm")
+print("&&&&")
 
