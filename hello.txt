@@ -1,1 +1,2 @@
 hi this is my fst git text file
+okay opened in git hub 
